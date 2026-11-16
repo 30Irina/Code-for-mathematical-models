@@ -105,7 +105,7 @@ int main() {
     std::cin >> delta_0;
    
 
-    std::cout << "Input L_t = 28: ";
+    std::cout << "Input L_t: ";
     std::cin >> L_t;
     std::cout << "Input N_t: ";
     std::cin >> N_t;
